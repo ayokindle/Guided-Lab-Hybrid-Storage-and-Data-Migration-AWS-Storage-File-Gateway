@@ -1,0 +1,5 @@
+This is a folder of helper files (code, data, scripts, etc) used to prep the Grader and Student work areas.  
+
+All files in the ‘Starter Code” folder is replicated in the Student and Grader work areas during the Publish/Update process. 
+
+Students may revert to the original Starter Code by clicking the “Reset Assignment" button option at any time.
